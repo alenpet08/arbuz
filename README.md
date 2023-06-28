@@ -1,1 +1,2 @@
 zub
+dva zuba
