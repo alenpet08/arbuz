@@ -1,2 +1,3 @@
 zub
 dva zuba
+mozg
